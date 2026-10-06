@@ -56,8 +56,13 @@
 </g>
 
 <rect x="835" y="28" width="325" height="374" rx="32" fill="#0B1120" stroke="#22D3EE" stroke-width="2"/>
-<image href="vaibhav-tyagi.png" x="835" y="28" width="325" height="406" preserveAspectRatio="xMidYMid slice" clip-path="url(#photoClip)"/>
-
+<image href="vaibhav-tyagi.png"
+       x="835"
+       y="28"
+       width="325"
+       height="406"
+       preserveAspectRatio="xMidYMid slice"
+       clip-path="url(#photoClip)"/>
 <rect x="864" y="335" width="250" height="48" rx="24" fill="#06101D" fill-opacity=".94" stroke="#22D3EE"/>
 <text x="890" y="365" fill="#F8FAFC" font-family="Montserrat,Arial,sans-serif" font-size="17" font-weight="800">ENGINEER / DEVELOPER</text>
 
