@@ -1,19 +1,67 @@
+
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Vaibhav Tyagi GitHub profile hero"/>
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td width="62%" valign="middle" align="left">
 
-<br/>
+<img src="https://img.shields.io/badge/HELLO%2C%20I'M-22D3EE?style=flat-square&labelColor=07111F" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=BUILDING+IDEAS+INTO+REAL+PRODUCTS;LEARNING.+BUILDING.+SHIPPING.;SOFTWARE+%7C+AI+%7C+CLOUD+%7C+PROBLEM+SOLVING" alt="Typing introduction"/>
+<h1>
+  <span style="color:#22D3EE;">VAIBHAV</span> TYAGI
+</h1>
+
+<h3> B.Tech CSE Student | Developer | Product Builder </h3>
+
+<p>
+Building digital products that solve real-world problems.
+Exploring software development, AI, cloud technologies
+and innovative ideas.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2800&pause=900&color=22D3EE&width=400&lines=LEARN.+BUILD.+INNOVATE.;Turning+Ideas+Into+Products.;Software+%7C+AI+%7C+Cloud" />
 
 <br/><br/>
 
-<a href="https://vaibhavtyagi2008.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO- VISIT-0B1120?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=111827" alt="Portfolio"/></a>
-<a href="https://github.com/vaibhavtyagidev"><img src="https://img.shields.io/badge/GITHUB-vaibhavtyagidev-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://github.com/vaibhavtyagicse"><img src="https://img.shields.io/badge/GITHUB-vaibhavtyagicse-0B1120?style=for-the-badge&logo=github&logoColor=white" alt="GitHub CSE"/></a>
-<a href="https://instagram.com/vaibhavtyagi.dev"><img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-0B1120?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
+<a href="https://vaibhavtyagi2008.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-22D3EE?style=for-the-badge&logo=vercel&logoColor=07111F" />
+</a>
+
+<a href="https://github.com/vaibhavtyagidev">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/vaibhavtyagicse">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/vaibhavtyagi.dev">
+<img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" />
+</a>
+
+</td>
+
+<td width="38%" align="center" valign="middle">
+
+<img
+src="YOUR_PROFILE_PHOTO_URL"
+width="100%"
+alt="Vaibhav Tyagi Profile Photo"
+/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/BASED_IN-INDIA-07111F?style=flat-square" />
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20%26%20AI-07111F?style=flat-square" />
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-07111F?style=flat-square" />
 
 </div>
+
+---
 
 ---
 
