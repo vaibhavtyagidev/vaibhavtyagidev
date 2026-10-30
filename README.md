@@ -16,6 +16,12 @@
 <img src="https://img.shields.io/badge/GITHUB-vaibhavtyagidev-07111F?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
 &nbsp;
+
+<a href="https://github.com/vaibhavtyagicse">
+<img src="https://img.shields.io/badge/GITHUB-vaibhavtyagicse-07111F?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+</a>
+&nbsp;
+  
 <a href="https://instagram.com/vaibhavtyagi.dev">
 <img src="https://img.shields.io/badge/INSTAGRAM-vaibhavtyagi.dev-07111F?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
