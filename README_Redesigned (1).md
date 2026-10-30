@@ -237,17 +237,16 @@ AI Tools · Automation · GenAI · Intelligent Apps
 
 ---
 
-<h2 align="center">07 &nbsp; / &nbsp; CONTRIBUTION GRAPH</h2>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavtyagidev&bg_color=07111F&color=22D3EE&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution graph"/>
+<img
+src="https://ghchart.rshah.org/22D3EE/vaibhavtyagidev"
+width="100%"
+alt="GitHub Contribution Calendar"
+/>
 
 </div>
-
----
-
-<div align="center">
 
 <h1>BUILD SOMETHING USEFUL.</h1>
 
