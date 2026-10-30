@@ -8,7 +8,7 @@
 
 <br><br>
 
-<a href="https://vaibhavtyagi2008.vercel.app/">
+<a href="Portfolio">
 <img src="https://img.shields.io/badge/PORTFOLIO-vaibhavtyagi2008.vercel.app-07111F?style=for-the-badge&logo=vercel&logoColor=22D3EE"/>
 </a>
 &nbsp;
