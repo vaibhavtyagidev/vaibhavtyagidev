@@ -146,8 +146,6 @@ Transit platform bringing metro and regional transit information together.
 <tr>
 <td width="33%" valign="top">
 
-
-
 ## InvoStudio
 
 **INVESTMENT PLATFORM**
