@@ -1,26 +1,73 @@
 
 <div align="center">
-<img src="./assets/profile-header.png" width="100%"/>
+
+<table border="0" width="100%" cellpadding="12">
+<tr>
+<td width="65%" valign="middle" align="left">
+
+<h3>💻 DEVELOPER &nbsp; | &nbsp; LEARNER &nbsp; | &nbsp; PRODUCT BUILDER</h3>
+
+<h1>VAIBHAV <font color="#22D3EE">TYAGI</font></h1>
+
+<h3>B.Tech CSE Student | Developer | Product Builder</h3>
+
+<p>
+Building digital products that solve real-world problems.
+Exploring software development, AI, cloud technologies
+and innovative ideas.
+</p>
+
+<h3>Turning Ideas Into Products.</h3>
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="./assets/profile-portrait.png"
+     width="100%"
+     alt="Vaibhav Tyagi"/>
+
+<h4>🎓 B.Tech CSE</h4>
+<h4>📍 India</h4>
+<h4>🚀 Learning & Building</h4>
+
+</td>
+</tr>
+</table>
+
+<h3>MY FOCUS AREAS</h3>
+
+<img src="https://img.shields.io/badge/〈%20%2F%20〉-SOFTWARE_DEVELOPMENT-07111F?style=for-the-badge&labelColor=07111F"/>
+<img src="https://img.shields.io/badge/AI-AUTOMATION-07111F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CLOUD-TECHNOLOGIES-07111F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PRODUCT-BUILDING-07111F?style=for-the-badge"/>
 
 <br/><br/>
 
+<h3>CONNECT WITH ME</h3>
+
 <a href="https://vaibhavtyagi2008.vercel.app/">
-<img src="https://img.shields.io/badge/▲_PORTFOLIO-22D3EE?style=for-the-badge&logoColor=07111F"/>
+<img src="https://img.shields.io/badge/▲_PORTFOLIO-22D3EE?style=for-the-badge&labelColor=22D3EE"/>
 </a>
 
 <a href="https://github.com/vaibhavtyagidev">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-vaibhavtyagidev-111827?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://github.com/vaibhavtyagicse">
-<img src="https://img.shields.io/badge/GITHUB_CSE-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-vaibhavtyagicse-111827?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://instagram.com/vaibhavtyagi.dev">
-<img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-vaibhavtyagi.dev-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=LEARN.+BUILD.+INNOVATE.;TURNING+IDEAS+INTO+PRODUCTS.;SOFTWARE+%7C+AI+%7C+CLOUD"/>
+
 </div>
+
+---
 
 <br/>
 
