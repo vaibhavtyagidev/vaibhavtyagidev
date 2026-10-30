@@ -73,6 +73,10 @@ Turning ideas into real products.
 ### 🧾 PakkaBill
 **GST BILLING & INVENTORY**
 
+<p>
+  <img src="https://img.shields.io/badge/●_BUILDING_PHASE-DC2626?style=for-the-badge&labelColor=7F1D1D" alt="Building Phase"/>
+</p>
+
 <kbd>BUILDING PHASE</kbd>
 
 Modern billing and inventory management platform for businesses.
@@ -84,7 +88,9 @@ Modern billing and inventory management platform for businesses.
 ### 🏘️ PanchayatAI
 **SMART SOCIETY MANAGEMENT**
 
-<kbd>BUILDING PHASE</kbd>
+<p>
+  <img src="https://img.shields.io/badge/●_BUILDING_PHASE-DC2626?style=for-the-badge&labelColor=7F1D1D" alt="Building Phase"/>
+</p>
 
 Digital management platform for housing societies, residents and administration.
 
