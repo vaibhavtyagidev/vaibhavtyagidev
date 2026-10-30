@@ -26,33 +26,6 @@
 
 ---
 
-<div align="center">
-
-<img src="./assets/profile-header.png" width="100%" alt="Vaibhav Tyagi - Developer Portfolio"/>
-
-<br/>
-
-<a href="https://vaibhavtyagi2008.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-22D3EE?style=for-the-badge&logo=vercel&logoColor=07111F"/>
-</a>
-<a href="https://github.com/vaibhavtyagidev">
-<img src="https://img.shields.io/badge/GITHUB-VAIBHAVTYAGIDEV-111827?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://github.com/vaibhavtyagicse">
-<img src="https://img.shields.io/badge/GITHUB-VAIBHAVTYAGICSE-111827?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://instagram.com/vaibhavtyagi.dev">
-<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=LEARN.+BUILD.+INNOVATE.;Turning+Ideas+Into+Products.;Software+%7C+AI+%7C+Cloud"/>
-
-</div>
-
----
-
 
 </td>
 </tr>
