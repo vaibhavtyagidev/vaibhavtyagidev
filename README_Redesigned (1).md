@@ -237,6 +237,24 @@ AI Tools · Automation · GenAI · Intelligent Apps
 
 ---
 
+---
+
+<h2 align="center"> CONTRIBUTION ACTIVITY </h2>
+
+<h1 align="center">Building Every Day. 🚀</h1>
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=vaibhavtyagidev&bg_color=07111F&color=22D3EE&line=22D3EE&point=FFFFFF&area=true&area_color=164E63&hide_border=true&custom_title=VAIBHAV%20TYAGI%20-%20CONTRIBUTION%20GRAPH"
+width="100%"
+alt="GitHub Contribution Graph"
+/>
+
+</div>
+
+---
+
 
 <div align="center">
 
