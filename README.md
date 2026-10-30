@@ -12,8 +12,8 @@
 <img src="https://img.shields.io/badge/PORTFOLIO-VAIBHAV TYAGI-07111F?style=for-the-badge&logo=vercel&logoColor=22D3EE"/>
 </a>
 &nbsp;
-<a href="https://github.com/vaibhavtyagicse">
-<img src="https://img.shields.io/badge/GITHUB-vaibhavtyagicse-07111F?style=for-the-badge&logo=github&logoColor=22D3EE"/>
+<a href="https://github.com/vaibhavtyagidev">
+<img src="https://img.shields.io/badge/GITHUB-vaibhavtyagidev-07111F?style=for-the-badge&logo=github&logoColor=22D3EE"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/vaibhavtyagi.dev">
