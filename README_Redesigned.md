@@ -7,6 +7,30 @@
   alt="Vaibhav Tyagi - Developer, Learner and Product Builder"
 />
 
+<div align="center">
+
+<img src="./assets/profile-header.png" width="100%"/>
+
+<br/><br/>
+
+<a href="https://vaibhavtyagi2008.vercel.app/">
+<img src="https://img.shields.io/badge/▲_PORTFOLIO-22D3EE?style=for-the-badge&logoColor=07111F"/>
+</a>
+
+<a href="https://github.com/vaibhavtyagidev">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/vaibhavtyagicse">
+<img src="https://img.shields.io/badge/GITHUB_CSE-111827?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/vaibhavtyagi.dev">
+<img src="https://img.shields.io/badge/INSTAGRAM-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+</div>
+
 <br/>
 
 <a href="https://vaibhavtyagi2008.vercel.app/">
