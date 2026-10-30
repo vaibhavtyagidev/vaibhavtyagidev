@@ -254,15 +254,9 @@ AI Tools · Automation · GenAI · Intelligent Apps
 **Learn something new. Build something real. Then make it better.**
 
 <br/>
-
 <a href="https://github.com/vaibhavtyagidev"><img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-22D3EE?style=for-the-badge&logo=github&logoColor=07111F" alt="Explore GitHub"/></a>
-
 <br/><br/>
-
 <a href="https://instagram.com/vaibhavtyagi.dev"><img src="https://img.shields.io/badge/@vaibhavtyagi.dev-111827?style=for-the-badge&logo=instagram&logoColor=22D3EE" alt="Instagram"/></a>
-
 <br/><br/>
-
-**MADE WITH ❤️ IN INDIA**
-
+**MADE WITH ❤️ IN INDIA 🇮🇳**
 </div>
