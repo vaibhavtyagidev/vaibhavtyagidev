@@ -44,7 +44,7 @@ and innovative ideas.
 <td width="38%" align="center" valign="middle">
 
 <img
-src="YOUR_PROFILE_PHOTO_URL"
+src="assets/vaibhavtyagi.png"
 width="100%"
 alt="Vaibhav Tyagi Profile Photo"
 />
