@@ -103,16 +103,14 @@ Transit platform bringing metro and regional transit information together.
 
 ---
 
-### 📈 InvoStudio
-**INVESTMENT PLATFORM**
+### 🧾 InvoStudio
+**SMART INVOICE & BILLING PLATFORM**
 
 [![Open Live Demo](https://img.shields.io/badge/OPEN_LIVE_DEMO-22D3EE?style=for-the-badge&logo=vercel&logoColor=07111F)](https://invostudio-pro.vercel.app/)
 
-Modern platform focused on investment and financial information.
+A modern invoice management platform to create professional invoices, manage customers, calculate GST, track payments and simplify business billing.
 
-`Finance` `Investment`
-
----
+`Invoice Generator` `GST Billing` `PDF Invoices` `Customer Management` `Payment Tracking` `Business Profile` `Tax Calculation` `Billing Automation`
 
 ### 🔳 GetAllQR
 **QR UTILITY PLATFORM**
