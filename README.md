@@ -146,17 +146,7 @@ Transit platform bringing metro and regional transit information together.
 <tr>
 <td width="33%" valign="top">
 
-## CodeMaster
 
-**CREATE · CODE · COMPILE**
-
-Online coding environment for writing, running and testing programs.
-
-`Compiler` `Coding` `Developer Tool`
-
-</td>
-
-<td width="33%" valign="top">
 
 ## InvoStudio
 
