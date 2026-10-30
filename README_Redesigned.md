@@ -1,14 +1,5 @@
 
 <div align="center">
-
-<img
-  src="./assets/profile-header.png"
-  width="100%"
-  alt="Vaibhav Tyagi - Developer, Learner and Product Builder"
-/>
-
-<div align="center">
-
 <img src="./assets/profile-header.png" width="100%"/>
 
 <br/><br/>
