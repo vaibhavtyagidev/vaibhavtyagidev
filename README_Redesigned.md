@@ -22,7 +22,7 @@ and innovative ideas.
 </td>
 <td width="35%" align="center" valign="middle">
 
-<img src="./assets/profile-portrait.png"
+<img src="./assets/vaibhav-tyagi.png"
      width="100%"
      alt="Vaibhav Tyagi"/>
 
